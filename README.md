@@ -1,0 +1,2 @@
+# emailassetsforemailnotifications
+images
